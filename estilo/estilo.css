@@ -1,0 +1,78 @@
+*{margin:0;
+    padding:0;}
+    body{
+        font-family: serif;
+        background-image:url(../img/bolo.jpg);
+    font-family: serif;
+    font-family: 'Lato', sans-serif;}
+
+
+.header{
+    background-color: #ff6a28;
+    height: 65px;
+    text-align: center;
+    padding-top: 15px;
+}
+.banner{
+    background-image: url(../img/bolo.jpg);
+    background-position:center;
+    background-size: cover;
+    height: 50px;}
+.footer{background-color: #ff6a28;
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding: top 30px; ;
+
+}
+
+
+
+.card {
+    background-color: aliceblue;
+    width: 500px;
+    margin:auto;
+    padding:50px;
+    background-color: white;
+    margin-top:  50px auto;
+    border-radius: 5px;
+    font-weight: 300;
+} h1{
+    text-align: center;
+    font-weight: 400;
+    font: size 20px; ;
+    color: #ff6a28;
+    margin-bottom: 20px;
+}
+    li{
+        text-align: left;
+        line-height: 35px;
+     list-style-position: inside;   
+    } 
+    ul{margin-bottom: 50px;   
+    }
+    .botao
+    a{margin-top: 30
+        px;
+      text-decoration: none;  
+      background-color: #ff6a28;
+      color: white;
+      padding: 15px;
+      font-weight: 400;
+      font-size: 20px;
+      border-radius: 50px; 
+    }
+    .botao:hover {
+        background-color: #dbad99;
+
+    }.titulo-receita{
+        font-weight:30;
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .link-footer{
+        font-weight: 700;
+        text-decoration: none;
+        color: white;
+    }
+
